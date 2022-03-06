@@ -1,0 +1,12 @@
+frontend/node_modules
+frontend/__pycache__
+frontend/migrations
+frontend/package-lock.json
+
+api/__pycache__
+api/migrations
+
+diango_react/__pycache__
+diango_react/migrations
+
+db.sqlite3
